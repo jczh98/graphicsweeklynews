@@ -13,4 +13,4 @@ layout: default
 
 ## 2023
 
-| [001](./posts/001.html) |
+| [001](./posts/001.html) | [002](./posts/002.html) | 
